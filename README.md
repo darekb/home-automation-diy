@@ -1,4 +1,4 @@
-# AngularJS Warsaw #1
+# iot & HOME AUTOMATION #2
 
-## Ionic w akcji 
+## Weather Station Project
 Prezentacja 
