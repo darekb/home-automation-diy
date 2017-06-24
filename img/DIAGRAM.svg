@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="23.196cm" height="16.096cm" viewBox="-1.757 -3.774 21.439 12.323"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="-1.194" y="-1.133" width="3.875" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-1.194" y="-1.133" width="3.875" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="0.743" y="0.012"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+UI</text>
+<rect x="-1.707" y="2.480" width="4.978" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-1.707" y="2.480" width="4.978" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="0.782" y="3.625"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+FIREBASE</text>
+<rect x="7.553" y="2.452" width="4.924" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.553" y="2.452" width="4.924" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="10.015" y="3.597"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+PHP</text>
+<rect x="7.558" y="-0.381" width="4.627" height="1.916" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.558" y="-0.381" width="4.627" height="1.916" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="9.872" y="0.773"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+cloudno.de</text>
+<rect x="5.614" y="-3.724" width="8.502" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.614" y="-3.724" width="8.502" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="9.866" y="-2.579"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+api.wunderground.com</text>
+<rect x="14.057" y="2.479" width="3.782" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="14.057" y="2.479" width="3.782" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.948" y="3.624"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+NODE.JS</text>
+<rect x="13.166" y="6.560" width="5.773" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.166" y="6.560" width="5.773" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.052" y="7.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+ARDUINO UNO</text>
+<rect x="17.319" y="10.345" width="4.070" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="17.319" y="10.345" width="4.070" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="19.354" y="11.490"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+DS18B20</text>
+<rect x="11.517" y="10.365" width="4.165" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="11.517" y="10.365" width="4.165" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="13.599" y="11.510"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+433 ODB.</text>
+<rect x="1.425" y="6.314" width="5.072" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.425" y="6.314" width="5.072" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="3.961" y="7.459"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+ATMEGA328</text>
+<rect x="-0.659" y="10.362" width="3.720" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-0.659" y="10.362" width="3.720" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="1.201" y="11.507"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+BME280</text>
+<rect x="4.080" y="10.373" width="4.138" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.080" y="10.373" width="4.138" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.149" y="11.518"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+433 NAD.</text>
+<line x1="1.883" y1="10.311" x2="3.153" y2="8.450" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="3.141,8.911 3.216,8.357 2.728,8.629 "/>
+<line x1="4.500" y1="8.264" x2="5.504" y2="10.126" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.099,9.903 5.557,10.225 5.540,9.666 "/>
+<line x1="14.244" y1="10.315" x2="15.286" y2="8.698" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="15.286,9.160 15.347,8.604 14.866,8.889 "/>
+<line x1="19.354" y1="10.345" x2="17.652" y2="8.619" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="18.103,8.720 17.573,8.539 17.747,9.071 "/>
+<line x1="16.026" y1="6.511" x2="15.979" y2="4.651" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="16.239,5.033 15.976,4.539 15.739,5.045 "/>
+<line x1="14.007" y1="3.420" x2="12.751" y2="3.414" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.140,3.166 12.639,3.414 13.138,3.666 "/>
+<line x1="7.503" y1="3.410" x2="3.544" y2="3.422" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="3.932,3.171 3.433,3.422 3.933,3.670 "/>
+<rect x="14.692" y="-0.440" width="3.312" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="14.692" y="-0.440" width="3.312" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.348" y="0.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+MYSQL</text>
+<line x1="12.205" y1="2.402" x2="14.450" y2="1.376" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.201,1.765 14.552,1.330 13.993,1.310 "/>
+<line x1="7.558" y1="0.578" x2="3.360" y2="2.345" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="3.621,1.964 3.257,2.388 3.815,2.425 "/>
+<line x1="0.771" y1="2.431" x2="0.756" y2="1.040" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="1.011,1.425 0.755,0.928 0.511,1.431 "/>
+<line x1="9.866" y1="-1.824" x2="9.871" y2="-0.604" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.619,-0.991 9.872,-0.492 10.119,-0.993 "/>
+<line x1="8.217" y1="11.323" x2="11.293" y2="11.316" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="10.906,11.567 11.405,11.316 10.904,11.067 "/>
+</svg>
